@@ -1,0 +1,15 @@
+*.d
+TAGS
+src/*.o
+src/*.d
+src/*.gcda
+src/*.gcno
+src/tst/*.o
+src/tst/*.d
+src/tst/*.gcda
+src/tst/*.gcno
+src/tst/*.d
+test
+cov/
+bin/
+doc/
